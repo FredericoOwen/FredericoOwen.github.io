@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Frederico Owen Wu
-  given: Frederico Owen
-  family: Wu
+  display: Dr.Alex Johnson
+  given: Alex
+  family: Johnson
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns:
